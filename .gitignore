@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.bak
+*.kk
+*sublime*
+*settings_local.py
+.idea
+venv
+*.iml
+env
+.vscode
